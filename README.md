@@ -19,3 +19,4 @@
 - https://www.discogs.com/lists/Black-White-Kinetic-Artwork/143194
 - https://roughjs.com/
 - https://github.com/jobtalle/CubicNoise
+- cool animation: lerp all points between two images: https://www.youtube.com/watch?v=thCJo49NSgw
